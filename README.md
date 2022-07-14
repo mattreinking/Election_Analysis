@@ -48,4 +48,8 @@ The analysis of the election show that:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Election-Audit Summary
-The script used for this election was only used for 3 counties in the state of Colorado. It can be easily utilized to track counts for all counties of Colorado. The code is highly efficient and as it breaks down the data collected into a simple, readable
+The script used for this election involved only 3 counties in the state of Colorado. It can be easily utilized to track counts for all counties of Colorado. The code is highly efficient using a csv file which is a file of the data arranged into a simple and malleable format. Keeping the data flexible allows for great potential to expand structure with ease. With how fundamental the data stays this script could expand to tracking counts for all cities and even as far as tracking for all states in the country.
+
+![image](https://user-images.githubusercontent.com/86776606/178872425-9814fe4d-7dd0-4507-aea9-bb34b6d87c5c.png)
+
+The code displayed shows how easy it can be to re-arrange and substitute the data variables to match the scaling of the project. The naming conventions used for creating the list and dictionary and voter turnout can also represent cities and states if the intent is to capture results for larger/multiple election boards.
