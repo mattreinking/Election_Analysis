@@ -16,6 +16,9 @@ The Colorado Board of Elections need a list of tasks completed for an election a
 ## Summary
 The analysis of the election show that:
 
+![2022_07_13_17_36_39_election_analysis_Notepad](https://user-images.githubusercontent.com/86776606/178860126-02aafbcb-9d0b-46c3-b4a8-eb53f32cf5f8.png)
+
+
 - There were 369,711 votes cast in the election
 
 - The candidates were:
@@ -31,4 +34,4 @@ The analysis of the election show that:
 - The winner of the election was:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
-
+## Challenge Summary
