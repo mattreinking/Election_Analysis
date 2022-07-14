@@ -48,3 +48,4 @@ The analysis of the election show that:
   - Diana DeGette, who received 73.8% of the vote and 272,892 number of votes.
 
 ## Election-Audit Summary
+The script used for this election was only used for 3 counties in the state of Colorado. It can be easily utilized to track counts for all counties of Colorado. The code is highly efficient and as it breaks down the data collected into a simple, readable
